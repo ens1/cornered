@@ -1,0 +1,11 @@
+#Edit this file to match your preferences and rename it ~/.hotcornerconf
+#If you are executing scripts not in your $PATH, specify a full path e.g. /home/tyler/.scripts/script.sh instead of ~/.scripts/script.sh
+#EXAMPLES
+#top_left=urxvt
+#top_right=sh /home/tyler/.scripts/top_right.sh
+#bottom_left=notify-send "Bottom Left"
+[config]
+top_left=
+top_right=
+bottom_right=
+bottom_left=
